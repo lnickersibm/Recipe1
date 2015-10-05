@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46BE89897D33B93168599A43 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 46BE82793F6FA043278D7D65 /* .gitignore */; };
 		F71A8D841BC1F765001A38E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71A8D831BC1F765001A38E0 /* AppDelegate.swift */; };
 		F71A8D861BC1F765001A38E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71A8D851BC1F765001A38E0 /* ViewController.swift */; };
 		F71A8D891BC1F765001A38E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F71A8D871BC1F765001A38E0 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		46BE82793F6FA043278D7D65 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		F71A8D7E1BC1F765001A38E0 /* Recipe1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Recipe1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F71A8D821BC1F765001A38E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F71A8D831BC1F765001A38E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				F71A8D801BC1F765001A38E0 /* Recipe1 */,
 				F71A8D961BC1F765001A38E0 /* Recipe1Tests */,
 				F71A8D7F1BC1F765001A38E0 /* Products */,
+				46BE82793F6FA043278D7D65 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -195,6 +198,7 @@
 				F71A8D891BC1F765001A38E0 /* Main.storyboard in Resources */,
 				F71A8D8E1BC1F765001A38E0 /* LaunchScreen.xib in Resources */,
 				F71A8D8B1BC1F765001A38E0 /* Images.xcassets in Resources */,
+				46BE89897D33B93168599A43 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
